@@ -1,12 +1,12 @@
-<root>
+<bug_report>
     <Environment>Your environment</Environment>
     <ID>BUG_ID</ID>
     <Summary>What?Where?Why?</Summary>
     <STR>
       <Step1>Step description</Step1>
-      <Step2>Ster description</Step2>
+      <Step2>Step description</Step2>
     </STR>
     <Actual_Result>...</Actual_Result>
     <Expected_Result>...</Expected_Result>
     <Attachments>...</Attachments>
-</root>
+</bug_report>
